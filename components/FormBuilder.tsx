@@ -132,7 +132,7 @@ function FormBuilder({ form }: { form: Form }) {
           <Designer />
         </div>
       </main>
-      {/* <DragOverlayWrapper /> */}
+      <DragOverlayWrapper />
     </DndContext>
   );
 }
