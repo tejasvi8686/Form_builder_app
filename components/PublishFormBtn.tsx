@@ -32,7 +32,7 @@ function PublishFormBtn({ id }: { id: number }) {
     } catch (error) {
       toast({
         title: "Error",
-        description: "Something went wrong",
+        description: "Something went wrongs",
       });
     }
   }
