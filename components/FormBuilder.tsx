@@ -28,20 +28,20 @@ function FormBuilder({ form }: { form: Form }) {
   //   const { setElements, setSelectedElement } = useDesigner();
   //   const [isReady, setIsReady] = useState(false);
 
-  //   const mouseSensor = useSensor(MouseSensor, {
-  //     activationConstraint: {
-  //       distance: 10, // 10px
-  //     },
-  //   });
+    const mouseSensor = useSensor(MouseSensor, {
+      activationConstraint: {
+        distance: 10, // 10px
+      },
+    });
 
-  //   const touchSensor = useSensor(TouchSensor, {
-  //     activationConstraint: {
-  //       delay: 300,
-  //       tolerance: 5,
-  //     },
-  //   });
+    const touchSensor = useSensor(TouchSensor, {
+      activationConstraint: {
+        delay: 300,
+        tolerance: 5,
+      },
+    });
 
-  //   const sensors = useSensors(mouseSensor, touchSensor);
+    const sensors = useSensors(mouseSensor, touchSensor);
 
   //   useEffect(() => {
   //     if (isReady) return;
@@ -111,7 +111,7 @@ function FormBuilder({ form }: { form: Form }) {
   //   }
 
   return (
-    <DndContext>
+    <DndContext sensors={sensors}>
       <main className="flex flex-col w-full">
         <nav className="flex justify-between border-b-2 p-4 gap-3 items-center">
           <h2 className="truncate font-medium">
