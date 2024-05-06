@@ -11,8 +11,8 @@ import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@
 import { format, formatDistance } from "date-fns";
 import { Badge } from "@/components/ui/badge";
 import { Checkbox } from "@/components/ui/checkbox";
-import VisitBtn from "@/components/Visitbtn";
 import FormLinkShare from "@/components/FormLinkShare";
+import VisitBtn from "@/components/VisitBtn";
 
 async function FormDetailPage({
   params,
