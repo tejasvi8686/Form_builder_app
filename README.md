@@ -84,56 +84,37 @@ For Demo checkout following link👇: <br />
 ![Next.js Full stack Form builder](https://iili.io/Jr63ikN.png)
 ![Next.js Full stack Form builder](https://iili.io/Jr63spI.png)
 
-## Resources Used in This Project
 
-#### 3D Models
+# Form Builder Application
 
-- ["Tim Mckee - Boy Wizard"](https://skfb.ly/6YATu) by [elbertwithane is licensed under Creative Commons Attribution ](http://creativecommons.org/licenses/by/4.0/).
-- ["Stylized wizard hat"](https://skfb.ly/ozxOQ) by [Enkarra is licensed under Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
-- ["Wizard Staff"](https://skfb.ly/6QYZw) by [Toymancer Studio is licensed under Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
+Welcome to our Form Builder Application! This application allows you to create stunning forms with a drag-and-drop designer, customize them, and share them with others. It's built with Next.js, Dnd-kit library, TypeScript, Tailwind CSS, Vercel PostgreSQL, and Prisma as ORM.
 
-#### AI Images
+## Technologies Used
+- Next.js 13 with AppRouter
+- Dnd-kit library
+- ServerActions
+- TypeScript
+- Tailwind CSS / Shadcn UI
+- Vercel PostgreSQL
+- Prisma as ORM
 
-- Created with the help of [Playground AI](https://playgroundai.com/)
-
-#### Github Stats & Details
-
-- [Github ReadMe Stats](https://github.com/anuraghazra/github-readme-stats)
-- [Skills Icons](https://github.com/tandpfun/skill-icons)
-- [Github Readme Streak Stats](https://github.com/denvercoder1/github-readme-streak-stats)
-
-#### Development Resources
-
-- Fonts from [Google Fonts](https://fonts.google.com/) <br />
-- Icons from [Lucide Icons](https://lucide.dev/) <br />
-- Notifications from [Sonner](https://sonner.emilkowal.ski/) <br />
-- Form created using [react-hook-form](https://react-hook-form.com/) <br />
-- Animations using [framer-motion](https://www.framer.com/motion/) <br />
-- Emails using [Emailjs](https://www.emailjs.com/) <br />
-- Convert 3d models to JSX using [Gltf JSX](https://github.com/pmndrs/gltfjsx)
-
-#### Audio
-
-- Music by <a href="https://pixabay.com/users/shidenbeatsmusic-25676252/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=20772">Shiden Beats Music</a> from <a href="https://pixabay.com/music//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=20772">Pixabay</a>
-
----
-
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Features
+- **Responsive**: Designed to work seamlessly across various devices and screen sizes.
+- **Create forms with a stunning drag and drop designer**: Easily create forms with an intuitive drag-and-drop interface.
+- **Layout fields**: Include various layout fields such as Title, SubTitle, Spacer, Separator, Paragraph for organizing your form.
+- **Form fields**: A variety of form fields available including Text, Number, Select, Date, Checkbox, Textarea.
+- **Easy to add and customize new fields**: Extend the application by adding or customizing new fields effortlessly.
+- **Form preview dialog**: Preview your form before sharing it.
+- **Share form URL**: Easily share the URL of your created form.
+- **Form submission/validation**: Ensure data integrity with form submission and validation.
+- **Form stats**: Keep track of form visits and submissions.
 
 ## Getting Started
+To get started with the project, follow these steps:
 
-First, install the dependencies and run the development server:
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/form-builder.git
 
-```bash
-npm run install # to install all dependencies
 
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
