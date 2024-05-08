@@ -75,14 +75,14 @@ For Demo checkout following link👇: <br />
 
 #### Mobile Version
 
-<div align='center'>
+
 ![Next.js Full stack Form builder](https://iili.io/Jr6362R.png)
 ![Next.js Full stack Form builder](https://iili.io/Jr63gEJ.png)
 ![Next.js Full stack Form builder](https://iili.io/Jr63rrv.png)
 ![Next.js Full stack Form builder](https://iili.io/Jr638Lg.png)
 ![Next.js Full stack Form builder](https://iili.io/Jr63P7p.png)
 ![Next.js Full stack Form builder](https://iili.io/Jr63ikN.png)
-![Next.js Full stack Form builder](https://iili.io/Jr63spI.png)</div>
+![Next.js Full stack Form builder](https://iili.io/Jr63spI.png)
 
 ## Resources Used in This Project
 
