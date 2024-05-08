@@ -57,7 +57,7 @@ For Demo checkout following link👇: <br />
   
 </p>
 
-#### Drag drap
+#### Drag drop
 
 <p align="center">
 
