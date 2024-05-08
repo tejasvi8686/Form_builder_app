@@ -4,11 +4,13 @@
 ![GitHub forks](https://img.shields.io/github/forks/tejasvi8686/Form_builder_app?style=social&logo=KashFlow&maxAge=3600)&nbsp;&nbsp;
 ![Github Followers](https://img.shields.io/github/followers/tejasvi8686.svg?style=social&label=Follow)&nbsp;&nbsp;<br />
 
-This repository contains **code** for Full stack Form builder, React, Typescript , Dnd-Kit, PostgreSQL, Prisma, Tailwind <br />
+This repository contains **code** for #🚀  Full stack Form builder, React, Typescript , Dnd-Kit, PostgreSQL, Prisma, Tailwind <br />
+
+## 📑 Introduction
 
 Welcome to our Form Builder Application! This application allows you to create stunning forms with a drag-and-drop designer, customize them, and share them with others. It's built with Next.js, Dnd-kit library, TypeScript, Tailwind CSS, Vercel PostgreSQL, and Prisma as ORM.
 
-## Technologies Used
+## 💻 Technologies Used
 - **Next.js 13** with **AppRouter**: For building a scalable and efficient web application.
 - **Dnd-kit library**: To provide a smooth drag and drop experience.
 - **ServerActions**: For handling server-side operations.
@@ -17,7 +19,7 @@ Welcome to our Form Builder Application! This application allows you to create s
 - **Vercel PostgreSQL**: As the database solution.
 - **Prisma**: As the ORM to interact with the database.
 
-## Features
+## ✨ Features
 - **Responsive**: Works on any device, providing an optimal viewing experience.
 - **Drag and Drop Designer**: Create forms with ease using the intuitive drag and drop interface.
 - **Layout Fields**: Includes Title, SubTitle, Spacer, Separator, Paragraph for structuring the form.
@@ -110,14 +112,11 @@ For Demo checkout following link👇: <br />
 
 
 
+## 🚀 Getting Started
+To get started with this project, clone the repository and install the necessary dependencies.
 
-
-## Getting Started
-To get started with the project, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/form-builder.git
-
-
-
+```bash
+git clone [your-repository-link]
+cd [your-repository-name]
+npm install
+npm run dev
