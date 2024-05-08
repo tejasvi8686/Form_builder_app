@@ -1,37 +1,51 @@
-#  Full stack Form builder, React, Typescript , Dnd-Kit, PostgreSQL, Prisma, Tailwind 🔥
+# Full stack Form builder, React, Typescript , Dnd-Kit, PostgreSQL, Prisma, Tailwind 🔥
 
 ![GitHub stars](https://img.shields.io/github/stars/tejasvi8686/Form_builder_app?style=social&logo=ApacheSpark&label=Stars)&nbsp;&nbsp;
 ![GitHub forks](https://img.shields.io/github/forks/tejasvi8686/Form_builder_app?style=social&logo=KashFlow&maxAge=3600)&nbsp;&nbsp;
 ![Github Followers](https://img.shields.io/github/followers/tejasvi8686.svg?style=social&label=Follow)&nbsp;&nbsp;<br />
 
-This repository contains **code** for  Full stack Form builder, React, Typescript , Dnd-Kit, PostgreSQL, Prisma, Tailwind <br />
+This repository contains **code** for Full stack Form builder, React, Typescript , Dnd-Kit, PostgreSQL, Prisma, Tailwind <br />
 
 For Demo checkout following link👇: <br />
 [Nextjs Full stack Form builder Demo](https://ts-form-builder.vercel.app/) <br />
 
-
 ---
+
 # ⭐DO NOT FORGET TO STAR THIS REPO⭐
+
 ---
 
-## Images of  Full stack Form builder:
+## Images of Full stack Form builder:
 
 #### Home
-![Nextjs Creative Portfolio Website](https://iili.io/Jrrfzbt.md.png)
 
-#### About
-![Nextjs Creative Portfolio Website About Page]<p align="center">
+<p align="center">
+
   <img src="https://iili.io/Jrrfzbt.md.png" width="750" title="hover text">
   
 </p>
 
+
+#### About
+
+<p align="center">
+
+  <img src="https://iili.io/Jrrfzbt.md.png" width="750" title="hover text">
+  
+</p>
+
+
+
 #### Projects
+
 ![Next.js Creative Portfolio Website Projects Page](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Projects-desktop.png)
 
 #### Contact
+
 ![Next.js Creative Portfolio Website Contact Page](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Contact-desktop.png)
 
 #### Mobile Version
+
 ![Next.js Creative Portfolio Website Contact Page](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Home-mobile.png)
 ![Next.js Creative Portfolio Website Contact Page](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/About-mobile.png)
 ![Next.js Creative Portfolio Website Contact Page](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Projects-mobile.png)
@@ -65,7 +79,7 @@ For Demo checkout following link👇: <br />
 - Emails using [Emailjs](https://www.emailjs.com/) <br />
 - Convert 3d models to JSX using [Gltf JSX](https://github.com/pmndrs/gltfjsx)
 
-#### Audio 
+#### Audio
 
 - Music by <a href="https://pixabay.com/users/shidenbeatsmusic-25676252/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=20772">Shiden Beats Music</a> from <a href="https://pixabay.com/music//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=20772">Pixabay</a>
 
