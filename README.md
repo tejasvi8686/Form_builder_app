@@ -4,8 +4,11 @@
 ![GitHub forks](https://img.shields.io/github/forks/tejasvi8686/Form_builder_app?style=social&logo=KashFlow&maxAge=3600)&nbsp;&nbsp;
 ![Github Followers](https://img.shields.io/github/followers/tejasvi8686.svg?style=social&label=Follow)&nbsp;&nbsp;<br />
 
+---
+
 # ⭐DO NOT FORGET TO STAR THIS REPO⭐
 
+---
 
 ## 📑 Introduction
 
@@ -36,11 +39,7 @@ Welcome to our Form Builder Application! This application allows you to create s
 For Demo checkout following link👇: <br />
 [Nextjs Full stack Form builder Demo](https://ts-form-builder.vercel.app/) <br />
 
----
 
-
-
----
 
 ## Images of Full stack Form builder:
 
