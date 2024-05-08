@@ -21,7 +21,7 @@ For Demo checkout following link👇: <br />
 
 #### About
 ![Nextjs Creative Portfolio Website About Page]<p align="center">
-  <img src="https://iili.io/Jrrfzbt.md.png" width="550" title="hover text">
+  <img src="https://iili.io/Jrrfzbt.md.png" width="750" title="hover text">
   
 </p>
 
