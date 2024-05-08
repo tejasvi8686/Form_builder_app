@@ -6,7 +6,6 @@
 
 # ⭐DO NOT FORGET TO STAR THIS REPO⭐
 
-This repository contains **code** for #🚀  Full stack Form builder, React, Typescript , Dnd-Kit, PostgreSQL, Prisma, Tailwind <br />
 
 ## 📑 Introduction
 
