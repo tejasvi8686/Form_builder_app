@@ -6,6 +6,30 @@
 
 This repository contains **code** for Full stack Form builder, React, Typescript , Dnd-Kit, PostgreSQL, Prisma, Tailwind <br />
 
+Welcome to our Form Builder Application! This application allows you to create stunning forms with a drag-and-drop designer, customize them, and share them with others. It's built with Next.js, Dnd-kit library, TypeScript, Tailwind CSS, Vercel PostgreSQL, and Prisma as ORM.
+
+## Technologies Used
+- **Next.js 13** with **AppRouter**: For building a scalable and efficient web application.
+- **Dnd-kit library**: To provide a smooth drag and drop experience.
+- **ServerActions**: For handling server-side operations.
+- **TypeScript**: For adding strong typing to enhance code quality and maintainability.
+- **Tailwindcss / Shadcn UI**: For styling and responsive design.
+- **Vercel PostgreSQL**: As the database solution.
+- **Prisma**: As the ORM to interact with the database.
+
+## Features
+- **Responsive**: Works on any device, providing an optimal viewing experience.
+- **Drag and Drop Designer**: Create forms with ease using the intuitive drag and drop interface.
+- **Layout Fields**: Includes Title, SubTitle, Spacer, Separator, Paragraph for structuring the form.
+- **Form Fields**: Supports Text, Number, Select, Date, Checkbox, Textarea inputs.
+- **Customization**: Easily add and customize new fields as per requirements.
+- **Preview**: Form preview dialog to review before publishing.
+- **Sharing**: Share form URL for wider access.
+- **Submission/Validation**: Robust form submission and validation system.
+- **Analytics**: Track form stats including visits and submissions.
+
+
+
 For Demo checkout following link👇: <br />
 [Nextjs Full stack Form builder Demo](https://ts-form-builder.vercel.app/) <br />
 
@@ -85,29 +109,8 @@ For Demo checkout following link👇: <br />
 ![Next.js Full stack Form builder](https://iili.io/Jr63spI.png)
 
 
-# Form Builder Application
 
-Welcome to our Form Builder Application! This application allows you to create stunning forms with a drag-and-drop designer, customize them, and share them with others. It's built with Next.js, Dnd-kit library, TypeScript, Tailwind CSS, Vercel PostgreSQL, and Prisma as ORM.
 
-## Technologies Used
-- Next.js 13 with AppRouter
-- Dnd-kit library
-- ServerActions
-- TypeScript
-- Tailwind CSS / Shadcn UI
-- Vercel PostgreSQL
-- Prisma as ORM
-
-## Features
-- **Responsive**: Designed to work seamlessly across various devices and screen sizes.
-- **Create forms with a stunning drag and drop designer**: Easily create forms with an intuitive drag-and-drop interface.
-- **Layout fields**: Include various layout fields such as Title, SubTitle, Spacer, Separator, Paragraph for organizing your form.
-- **Form fields**: A variety of form fields available including Text, Number, Select, Date, Checkbox, Textarea.
-- **Easy to add and customize new fields**: Extend the application by adding or customizing new fields effortlessly.
-- **Form preview dialog**: Preview your form before sharing it.
-- **Share form URL**: Easily share the URL of your created form.
-- **Form submission/validation**: Ensure data integrity with form submission and validation.
-- **Form stats**: Keep track of form visits and submissions.
 
 ## Getting Started
 To get started with the project, follow these steps:
