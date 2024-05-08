@@ -26,11 +26,11 @@ For Demo checkout following link👇: <br />
 </p>
 
 
-#### About
+#### From
 
 <p align="center">
 
-  <img src="https://iili.io/Jrrfzbt.md.png" width="750" title="hover text">
+  <img src="https://iili.io/Jrrf3Wg.md.png" width="750" title="hover text">
   
 </p>
 
@@ -38,11 +38,19 @@ For Demo checkout following link👇: <br />
 
 #### Projects
 
-![Next.js Creative Portfolio Website Projects Page](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Projects-desktop.png)
+<p align="center">
+
+  <img src="https://iili.io/Jrrf3Wg.md.png" width="750" title="hover text">
+  
+</p>
 
 #### Contact
 
-![Next.js Creative Portfolio Website Contact Page](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Contact-desktop.png)
+<p align="center">
+
+  <img src="https://iili.io/Jrrf3Wg.md.png" width="750" title="hover text">
+  
+</p>
 
 #### Mobile Version
 
