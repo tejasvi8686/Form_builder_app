@@ -20,7 +20,10 @@ For Demo checkout following link👇: <br />
 ![Nextjs Creative Portfolio Website](https://iili.io/Jrrfzbt.md.png)
 
 #### About
-![Nextjs Creative Portfolio Website About Page](https://github.com/tejasvi8686/Form_builder_app/blob/main/1.png)
+![Nextjs Creative Portfolio Website About Page]<p align="center">
+  <img src="https://iili.io/Jrrfzbt.md.png" width="350" title="hover text">
+  
+</p>
 
 #### Projects
 ![Next.js Creative Portfolio Website Projects Page](https://github.com/codebucks27/Nextjs-Creative-Portfolio-Starter-Code-Files/blob/main/website%20images/Projects-desktop.png)
