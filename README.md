@@ -4,6 +4,8 @@
 ![GitHub forks](https://img.shields.io/github/forks/tejasvi8686/Form_builder_app?style=social&logo=KashFlow&maxAge=3600)&nbsp;&nbsp;
 ![Github Followers](https://img.shields.io/github/followers/tejasvi8686.svg?style=social&label=Follow)&nbsp;&nbsp;<br />
 
+# ⭐DO NOT FORGET TO STAR THIS REPO⭐
+
 This repository contains **code** for #🚀  Full stack Form builder, React, Typescript , Dnd-Kit, PostgreSQL, Prisma, Tailwind <br />
 
 ## 📑 Introduction
@@ -37,7 +39,7 @@ For Demo checkout following link👇: <br />
 
 ---
 
-# ⭐DO NOT FORGET TO STAR THIS REPO⭐
+
 
 ---
 
